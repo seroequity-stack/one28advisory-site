@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://one28advisory.com.au/sitemap.xml
